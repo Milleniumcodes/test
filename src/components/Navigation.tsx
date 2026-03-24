@@ -27,13 +27,17 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
         <div className="flex justify-between items-center h-20">
           <button
             onClick={() => handleNavClick('home')}
-            className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+            className="flex items-center space-x-3 hover:opacity-80 transition-opacity"
           >
             <img
-              src="/upscalemedia-transformed-removebg-preview_(1).png"
+              src="/upscalemedia-transformed.png"
               alt="Haus Ronneburg Logo"
-              className="h-16 w-16"
+              className="h-14 w-auto"
             />
+            <div className="hidden sm:block">
+              <div className="text-xl font-bold">Haus Ronneburg</div>
+              <div className="text-xs text-amber-200">Restaurant Frankfurt</div>
+            </div>
           </button>
 
           <div className="hidden md:flex space-x-8">
