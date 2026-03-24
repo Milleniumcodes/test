@@ -17,23 +17,25 @@ export default function AboutPage() {
 
         <div className="bg-white rounded-lg shadow-lg p-8 mb-12">
           <h2 className="text-3xl font-bold text-stone-800 mb-6 text-center">
-            Familiengeführt mit Leidenschaft
+            Deutsch-kroatische Küche seit 2003
           </h2>
           <div className="prose prose-lg max-w-none text-stone-700 leading-relaxed space-y-4">
             <p>
-              Das Haus Ronneburg ist ein familiengeführtes Restaurant, das seit vielen Jahren für seine
-              deutsch-kroatische Küche und herzliche Gastfreundschaft bekannt ist. Unser Inhaber Tomo
-              und sein Team empfangen Sie mit persönlichem und aufmerksamem Service.
+              Das Haus Ronneburg in Frankfurt-Eckenheim heißt Sie willkommen! Seit 2003 verwöhnen wir
+              unsere Gäste mit traditioneller deutsch-kroatischer Küche in familiärer Atmosphäre.
+              Unser erfahrenes Team empfängt Sie mit persönlichem und aufmerksamem Service.
             </p>
             <p>
               Wir legen größten Wert auf frische, hochwertige Zutaten und bereiten alle Speisen mit viel
-              Liebe zum Detail zu. Unsere großzügigen Portionen und fairen Preise haben uns zu einer
-              beliebten Adresse in Frankfurt-Eckenheim gemacht.
+              Liebe zum Detail zu. Von klassischen deutschen Schnitzeln über kroatische Grillspezialitäten
+              bis hin zu internationalen Gerichten – unsere vielfältige Speisekarte bietet für jeden Geschmack
+              etwas. Unsere großzügigen Portionen und fairen Preise haben uns zu einer beliebten Adresse
+              in Frankfurt gemacht.
             </p>
             <p>
               Das Restaurant ist Teil des SAALBAU Ronneburg und bietet neben dem gastronomischen Angebot
-              auch verschiedene Säle für Familienfeiern, Firmenfeiern und besondere Anlässe sowie
-              Kegelbahnen für gesellige Stunden.
+              auch verschiedene Säle für Familienfeiern, Hochzeiten, Firmenfeiern und besondere Anlässe.
+              Zudem verfügen wir über Kegelbahnen für gesellige Stunden mit Familie und Freunden.
             </p>
           </div>
         </div>
