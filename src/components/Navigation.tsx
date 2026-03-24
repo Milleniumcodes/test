@@ -29,9 +29,11 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
             onClick={() => handleNavClick('home')}
             className="flex items-center space-x-3 hover:opacity-80 transition-opacity"
           >
-            <div className="w-12 h-12 bg-amber-700 rounded-full flex items-center justify-center">
-              <span className="text-2xl font-bold text-amber-50">HR</span>
-            </div>
+            <img
+              src="/upscalemedia-transformed.png"
+              alt="Haus Ronneburg Logo"
+              className="h-14 w-auto"
+            />
             <div className="hidden sm:block">
               <div className="text-xl font-bold">Haus Ronneburg</div>
               <div className="text-xs text-amber-200">Restaurant Frankfurt</div>
