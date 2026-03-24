@@ -30,7 +30,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
             className="flex items-center space-x-3 hover:opacity-80 transition-opacity"
           >
             <img
-              src="/upscalemedia-transformed.png"
+              src="/upscalemedia-transformed-removebg-preview_(1).png"
               alt="Haus Ronneburg Logo"
               className="h-14 w-auto"
             />
